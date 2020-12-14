@@ -3,6 +3,7 @@ package com.wf.socket.gitdemo;
 public class Student {
     private int age;
     private String name;
+    private float height;
 
     public Student(int age, String name) {
         this.age = age;
